@@ -1,7 +1,5 @@
 
-[![MasterHead](https://ibb.co/B3GphZY)]("")
-
-
+[![MasterHead](https://i.postimg.cc/BQyT54kd/Pradipta-Banerjee.png)](https://postimg.cc/tY3npQX5)
 
 
 <h1 align="center">Hello Everyone I'm Pradipta Banerjee</h1>
