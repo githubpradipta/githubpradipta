@@ -3,17 +3,17 @@
 
 
 <h1 align="center">Hello Everyone I'm Pradipta Banerjee</h1>
-<h3 align="center">An ardent fullstack web developer (3rd Year|B.Tech)</h3>
+<h3 align="center">Fresher MERN Developer</h3>
 
 <img align="right" alt="Coding" width="350" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47jjdrs8wwkl3otc54r1rzyd4whlzcddg3gdi4s7sy&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubpradipta&label=Profile%20views&color=0e75b6&style=flat" alt="githubpradipta" /> </p>
 
-- 🔖 I’m currently learning **ReactJs, NextJs**
+- 🔖 **Full-stack Developer (MERN)**
 
-- 💬 Ask me about **React, NodeJs, MongoDB,MySql**
+- 💬 You can ask me about **Web Dev, DSA, ML**
 
-- 📫 You can drop an email in **banerjeepradipta08@gmail.com**
+- 📫 Drop an email in **banerjeepradipta08@gmail.com**
 
 - 😉 Fun fact **Web Development is Not Web Design**
 
